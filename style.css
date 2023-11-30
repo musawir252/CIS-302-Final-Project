@@ -1,0 +1,52 @@
+
+body{
+	background-color: green;
+	margin: 0;
+	padding: 0;
+}
+
+h1 {
+	text-align: center;
+	color: white;
+}
+
+table {
+	width: 600px;
+	margin:0 auto;
+	background-color: lightgreen;
+	border: 1px solid black;
+	border-collapse: collapse;
+}
+
+table td{
+	text-align: center;
+	vertical-align: middle;
+	border: 1px solid black;
+	padding: 10px;
+	
+}
+
+.caption{
+	color: white;
+	font-size:24 px;
+	padding: 10px;
+	text-align: center;
+}
+
+table img {
+	width: 200px;
+	height: 150px;
+	padding: 10px;
+	border: 1px solid black;
+	display: block;
+	margin: 0 auto;
+	border: 3px solid blue;
+}
+
+table ol {
+	text-align: left;
+}
+
+table li{
+	font-size: 18px;
+}
